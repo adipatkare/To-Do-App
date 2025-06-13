@@ -3,9 +3,9 @@
 A Sample assignment Flutter project.
 
 ## Screenshots
-![Image](assets/Screenshot1.png)
-![Image](assets/Screenshot2.png)
-![Image](assets/Screenshot3.png)
+![Image](image/Screenshot1.png)
+![Image](image/Screenshot2.png)
+![Image](image/Screenshot3.png)
 
 ## Getting Started
 
